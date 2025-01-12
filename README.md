@@ -3,3 +3,4 @@ This repository contains an academic report about an industrial talk on Preparin
 # Content 
 
 # Reflection
+https://github.com/Leena17111/IndustrialTalk02--Entrepreneurship-In-IT--Group-4/blob/main/reflection.md
