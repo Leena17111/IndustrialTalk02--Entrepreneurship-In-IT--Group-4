@@ -3,5 +3,5 @@ This repository contains an academic report about an industrial talk on Preparin
 # Content 
 - [Academic report](.IndustrialTalk2-Group04-Section07.pdf)
 # Reflection
-- [Reflection](.reflection.md)
+- [Reflection](./reflection.md)
 
